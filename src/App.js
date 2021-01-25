@@ -17,6 +17,7 @@ export default function App() {
   function handleChange(event) {
     const newValue = event.target.value;
     setInputText(newValue);
+    //thank you abhishek shaw
   }
 
   function handleAdd() {
